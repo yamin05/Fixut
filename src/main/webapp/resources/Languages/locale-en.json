@@ -1,0 +1,12 @@
+{
+  "HEADLINE": "Hello there!",
+  "LANG_DE_DE": "Lang: German",
+  "LANG_EN_US": "Lang: English",
+  "TEST": "{{username}} is logged in.",
+  "login.page.signin.label": "Sign In",
+  "login.page.enter.username.password.label": "Enter your username and password to log on:",
+  "login.page.username.placeholder.label": "Username...",
+  "login.page.password.placeholder.label": "Password...",
+  "login.page.signin.button.label": "Sign in!",
+  "login.page.or.signin.label": "...or login with:"
+}
